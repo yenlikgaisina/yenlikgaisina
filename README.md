@@ -59,4 +59,4 @@ MPH, and a University of Cambridge Professional Certificate in Data Science,
 Machine Learning & AI (completed 2026). Currently open to Data Analyst and
 Insight Analyst roles.
 
-Languages: English, Russian, Kazakh, and intermediate Persian.
+Languages: English (fluent) · Russian (native) · Kazakh (native) · Persian/Farsi (intermediate)
