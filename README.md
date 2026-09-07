@@ -1,10 +1,20 @@
-# Hi, I'm Yenlik 👋
+# Hi, I'm Yenlik
 
-### Data Analyst | SQL · Python · Data Quality · Operational Analytics · Power BI
+### Data Analyst | SQL · Python · Data Quality · Power BI
 
-I transform, validate and analyse complex datasets to produce clear, decision-ready outputs. I work closely with stakeholders to translate business requirements into reliable analytical deliverables — cleaning and reconciling messy data, building data-quality checks, investigating anomalies, and reporting results in SQL, Python and Power BI. Public-health (MPH) and quantitative background; University of Cambridge Professional Certificate in Data Science, Machine Learning & AI — completed 2026.
+I'm moving from university operations into data analysis. What interests me is
+messy operational data, and the point where an analysis has to turn into
+something another person can actually use.
 
-🔗 [LinkedIn](https://linkedin.com/in/yenlik-gaisina) · 🌐 [Portfolio](https://gaisina.co.uk) · 📍 UK
+I work mainly in SQL and Python. Recent projects include a Companies House
+data-delivery pipeline with an automated QA gate, NHS demand forecasting, and
+housing and health analysis built on UK open data.
+
+My background is public health and university research administration, so I
+tend to spend as much time on data quality, assumptions and how a result gets
+communicated as on the analysis itself.
+
+🔗 [LinkedIn](https://linkedin.com/in/yenlik-gaisina) · 🌐 [Portfolio](https://gaisina.co.uk) · 📍 Nottingham, UK
 
 ---
 
@@ -43,11 +53,10 @@ I transform, validate and analyse complex datasets to produce clear, decision-re
 
 ---
 
-## 🎯 Currently
+## Background
 
-- University of Cambridge Professional Certificate in Data Science, Machine Learning & AI — completed 2026
-- Building reliable, validated analytics with a public-good focus (health, climate, operations)
+MPH, and a University of Cambridge Professional Certificate in Data Science,
+Machine Learning & AI (completed 2026). Currently open to Data Analyst and
+Insight Analyst roles.
 
-Open to Data Analyst and Operational/Insight Analyst roles
-
-Languages: English (fluent) · Russian (native) · Kazakh (native) · Persian/Farsi (intermediate)
+Languages: English, Russian, Kazakh, and intermediate Persian.
